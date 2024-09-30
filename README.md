@@ -9,6 +9,7 @@ About Repository :
 This repository was created specifically to support open-source among college students. As a result, issues might range in severity from easy to challenging.
 
 Instructions for Hacktoberfest:
+
 • You should be a student of CCEW
 
 • One should have registered in Mozilla via the form which was sent and also on the official hacktoberfest website.
@@ -28,3 +29,10 @@ Instructions for Hacktoberfest:
 • Issues will be assigned on a first-come, first-serve basis.
 
 • You will get a maximum of 2 days to work on that issue. If you fail to do so, the issue will be assigned to the next student.
+
+# Contribution Guidelines
+
+Follow the below folder structure 
+
+![image](https://github.com/user-attachments/assets/5b2c28d4-cae8-42ca-a6e8-7d8abaf9039c)
+
